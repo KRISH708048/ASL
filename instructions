@@ -6,9 +6,5 @@ Activate the library and follow the steps:
 1-> USE command below to install all libraries
     pip install -r requirements.txt 
 
-2-> Things you have to add are only in cam_stream/views.py i have commented everything what you have to do 
-
-3-> Ensure to get full details of the model before designing your preprocessing function for model input frames
-
-4-> In order to test your code on webpage (running django server) enterr following command :
+2-> In order to test your code on webpage:
     python manage.py runserver
